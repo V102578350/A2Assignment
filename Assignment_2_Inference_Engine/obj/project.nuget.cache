@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oQo4CCsEapXsH6Nr4aLyXFDhC8qeeOsKrr2spp04suBI7msnWD98yLaRWl8NejWJJRZCuVBrEzCzvWMELnrjBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\malte\\OneDrive - Swinburne University\\IAI\\Assignments\\Assignment_2\\Assignment_2_Inference_Engine\\Assignment_2_Inference_Engine\\Assignment_2_Inference_Engine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\malte\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

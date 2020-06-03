@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment_2_Inference_Engine", "Assignment_2_Inference_Engine\Assignment_2_Inference_Engine.csproj", "{621A5515-3B3D-49CE-8774-1CA0C6CB7B2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{621A5515-3B3D-49CE-8774-1CA0C6CB7B2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{621A5515-3B3D-49CE-8774-1CA0C6CB7B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{621A5515-3B3D-49CE-8774-1CA0C6CB7B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{621A5515-3B3D-49CE-8774-1CA0C6CB7B2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C59A5A7-0966-44A9-842F-940811158012}
+	EndGlobalSection
+EndGlobal

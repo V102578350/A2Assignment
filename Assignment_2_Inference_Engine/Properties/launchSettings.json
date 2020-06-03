@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Assignment_2_Inference_Engine": {
+      "commandName": "Project",
+      "commandLineArgs": "BC test_HornKB.txt"
+    }
+  }
+}
